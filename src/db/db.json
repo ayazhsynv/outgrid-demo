@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "Pablo",
+      "location": "Colombia",
+      "age": 48,
+      "id": 1
+    },
+    {
+      "name": "Leylushka",
+      "location": "Madrid",
+      "age": 26,
+      "id": 2
+    }
+  ]
+}
