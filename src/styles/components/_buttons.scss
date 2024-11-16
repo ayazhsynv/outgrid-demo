@@ -1,0 +1,28 @@
+.btn {
+  padding: 19px 36px;
+  border: none;
+  border-radius: 100px;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 1em;
+}
+.btn-primary {
+  background-color: $color-primary;
+  color: $color-headline;
+  transition: 0.2s ease-in-out;
+  &:hover {
+    background-color: $color-secondary;
+    color: $color-headline;
+  }
+}
+
+.btn-white {
+  background-color: $color-white;
+  color: $color-headline;
+  transition: 0.2s ease-in-out;
+  &:hover {
+    background-color: $color-secondary;
+    color: $color-headline;
+  }
+}

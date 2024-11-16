@@ -1,16 +1,178 @@
 {
-  "users": [
+  "partners": [
     {
-      "name": "Pablo",
-      "location": "Colombia",
-      "age": 48,
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-1.webp",
       "id": 1
     },
     {
-      "name": "Leylushka",
-      "location": "Madrid",
-      "age": 26,
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-2.webp",
       "id": 2
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-3.webp",
+      "id": 3
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-4.webp",
+      "id": 4
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-5.webp",
+      "id": 5
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-6.webp",
+      "id": 6
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-7.webp",
+      "id": 7
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-8.webp",
+      "id": 8
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-9.webp",
+      "id": 9
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Logo-2.webp",
+      "id": 10
+    }
+  ],
+
+  "why_us": [
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Why-Icon-5.webp",
+      "color": "#f6c142",
+      "title": "Flexible Time",
+      "description": "Online education allows teachers and students to set their own pace of learning, and there is added flexibility in setting a schedule that fits.",
+      "id": 1
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Why-Icon-2.webp",
+      "color": "#baea85",
+      "title": "Certificate",
+      "description": "Teachers and students to set their own pace of learning, and there is added flexibility in setting a schedule that fits everyone's agenda.",
+      "id": 2
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Why-Icon-3.webp",
+      "color": "#a1befb",
+      "title": "Class program options",
+      "description": "Allows teachers and students to set their own pace of learning, and there is added flexibility in setting a schedule that fits everyone's agenda.",
+      "id": 3
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Why-Icon-4.webp",
+      "color": "#a1dffa",
+      "title": "Access anywhere",
+      "description": "Online education allows teachers and students to set their own pace of learning, and there is added flexibility in setting a schedule.",
+      "id": 4
+    }
+  ],
+  "courses": [
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Courses-Icon-1.webp",
+      "color": "#f4ab7f",
+      "title": "Business and Management",
+      "description": "32 online courses",
+      "id": 1
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Courses-Icon-2.webp",
+      "color": "#baea85",
+      "title": "Technology and IT",
+      "description": "24 online courses",
+      "id": 2
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Courses-Icon-3.webp",
+      "color": "#a1befa",
+      "title": "Communication",
+      "description": "11 online courses",
+      "id": 3
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Courses-Icon-4.webp",
+      "color": "#f9d161",
+      "title": "Arts and Design",
+      "description": "56 online courses",
+      "id": 4
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Courses-Icon-5.webp",
+      "color": "#a1dffa",
+      "title": "Marketing",
+      "description": "20 online courses",
+      "id": 5
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2023/06/eLearning-Courses-Icon-6.webp",
+      "color": "#f6c142",
+      "title": "Personal Development",
+      "description": "17 online courses",
+      "id": 6
+    }
+  ],
+
+  "featured": [
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2019/05/1_0002_18-1-1.jpg",
+      "title": "Nutrition Build Your Perfect Diet & Meal Plan",
+      "category": "Self-Development, Health & Fitness",
+      "price": "Free",
+      "id": 1
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2019/05/course3-1.jpg",
+      "title": "The Complete Digital Marketing Course",
+      "category": "Affiliate Marketing, Email Marketing,Marketing, SEO",
+      "price": "$49.99",
+      "id": 2
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2019/05/course6-1.jpg",
+      "title": "The Complete Web Developer Course",
+      "category": "Web Development, Web Design, Programming",
+      "price": "$99.99",
+      "id": 3
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2019/05/course4-1.jpg",
+      "title": "The Complete Financial Analyst Course",
+      "category": "Finance, Accounting, Excel, Financial Modeling",
+      "price": "$79.99",
+      "id": 4
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2019/05/course1-1-1.jpg",
+      "title": "Nutrition Build Your Perfect Diet & Meal Plan",
+      "category": "Self-Development, Health & Fitness",
+      "price": "Free",
+      "id": 5
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2019/05/course8-1.jpg",
+      "title": "The Complete Digital Marketing Course",
+      "category": "Affiliate Marketing, Email Marketing,Marketing, SEO",
+      "price": "$24.99",
+      "id": 6
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2019/05/course9-1.jpg",
+      "title": "The Complete Web Developer Course",
+      "category": "Web Development, Web Design, Programming",
+      "price": "$49.99",
+      "id": 7
+    },
+    {
+      "image": "https://outgrid.uicore.co/elearning/wp-content/uploads/sites/5/2019/05/course5-1.jpg",
+      "title": "The Complete Financial Analyst Course",
+      "category": "Finance, Accounting, Excel, Financial Modeling",
+      "price": "$49.99",
+      "id": 8
     }
   ]
 }

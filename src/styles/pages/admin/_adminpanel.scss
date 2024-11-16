@@ -1,0 +1,41 @@
+.admin {
+  color: #f8f8f2;
+  button {
+    padding: 10px 20px;
+    margin-top: 20px;
+    border: none;
+    border-radius: 6.25px;
+    background-color: #fcff61;
+    color: #0f0f0e;
+    font-size: 20px;
+    cursor: pointer;
+    outline: none;
+  }
+
+  h1 {
+    margin-top: 50px;
+    color: #fcff61;
+    text-align: center;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 40px;
+    padding: 40px;
+    border-radius: 20px;
+    background-color: #9094d3;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    input {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 20px;
+      border-radius: 6.25px;
+      border: none;
+      background-color: #282a36;
+      color: #f8f8f2;
+      outline: none;
+      font-size: 20px;
+    }
+  }
+}

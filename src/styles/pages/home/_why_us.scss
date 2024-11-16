@@ -1,0 +1,29 @@
+.why_us {
+  padding: 120px 0 120px;
+  h2 {
+    margin-bottom: 20px;
+  }
+  p {
+    max-width: 400px;
+    margin-bottom: 40px;
+  }
+  &__cards__data {
+    max-width: 350px;
+    padding: 10px;
+    img {
+      width: 80px;
+      height: 80px;
+      margin-bottom: 20px;
+      padding: 20px;
+      border-radius: 50%;
+    }
+    h4 {
+      text-align: left;
+      margin-bottom: 12px;
+    }
+    p {
+      font-size: 14px;
+      font-weight: 300;
+    }
+  }
+}

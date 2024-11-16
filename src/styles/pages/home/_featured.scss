@@ -1,0 +1,53 @@
+.featured {
+  padding: 120px 0;
+  background-color: $color-dark;
+  h2 {
+    text-align: center;
+    color: $color-white;
+    margin-bottom: 32px;
+  }
+  &__cards {
+    padding-bottom: 32px;
+    &__item {
+      border-radius: 20px;
+      background-color: $color-white;
+      img {
+        border-radius: 20px 20px 0 0;
+      }
+      &__text {
+        padding: 25px 20px;
+        border-bottom: 1px solid #e6e6e6;
+        span {
+          color: $color-primary;
+          letter-spacing: 0.8px;
+          font-size: 18px;
+        }
+        h3 {
+          margin: 16px 0;
+          font-size: 20px;
+        }
+        p {
+          font-size: 15px;
+          span {
+            font-size: 15px;
+            color: #b1b8c8;
+          }
+        }
+      }
+      &__buttons {
+        padding: 15px 20px;
+        span {
+          color: $color-primary;
+          font-size: 16px;
+          font-weight: 600;
+          letter-spacing: 0.8px;
+        }
+        a {
+          color: $color-body;
+          font-size: 16px;
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}

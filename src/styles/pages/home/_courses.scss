@@ -1,0 +1,46 @@
+.courses {
+  background-color: $color-light;
+  padding: 120px 0;
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  p {
+    text-align: center;
+    max-width: 600px;
+    margin-bottom: 48px;
+  }
+  &__cards {
+    &__data {
+      padding: 32px 32px 24px;
+      width: 385px;
+      border-radius: 25px;
+      background-color: $color-white;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+      img {
+        width: 80px;
+        height: 80px;
+        border-radius: 12.5px;
+        margin-bottom: 16px;
+        padding: 10px;
+      }
+      h3 {
+        margin-bottom: 8px;
+      }
+      p {
+        text-align: left;
+        margin-bottom: 12px;
+      }
+      a {
+        color: $color-headline;
+        font-size: 18px;
+        font-weight: 500;
+        text-decoration: none;
+        transition: 0.2 ease-in-out;
+        &:hover {
+          color: $color-primary;
+        }
+      }
+    }
+  }
+}

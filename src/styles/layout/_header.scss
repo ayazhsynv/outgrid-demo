@@ -1,0 +1,58 @@
+header {
+  background-color: $color-light;
+  .container {
+    height: 82px;
+    .row {
+      height: 100%;
+    }
+  }
+  .uicore-branding {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: flex-start;
+    img {
+      width: 108px;
+      height: 32px;
+    }
+  }
+  .uicore-nav {
+    @media screen and (max-width: 992px) {
+      display: none;
+    }
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    ul {
+      display: flex;
+      list-style: none;
+      li {
+        margin: 0 20px;
+        a {
+          text-decoration: none;
+          color: $color-headline;
+          font-weight: 300;
+          transition: 0.2s ease-in-out;
+          &:hover {
+            color: $color-primary;
+          }
+        }
+      }
+    }
+  }
+  .uicore-login {
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: space-around;
+    a {
+      font-weight: 600;
+      text-decoration: none;
+      color: $color-headline;
+      button {
+        padding: 14.4px 32.4px;
+      }
+    }
+  }
+}

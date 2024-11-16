@@ -1,0 +1,25 @@
+.join-now {
+  background-color: $color-dark;
+  padding: 96px 0;
+  &__inner {
+    border-radius: 12.5px;
+    border: 1px solid $color-body;
+    &__text {
+      padding: 100px;
+      h2 {
+        color: $color-white;
+      }
+      p {
+        color: $color-light;
+        font-weight: 200;
+        font-size: 18px;
+        margin: 16px 16px 28px 0;
+      }
+    }
+
+    img {
+      max-width: 470px;
+      border-radius: 12.5px;
+    }
+  }
+}

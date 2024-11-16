@@ -7,6 +7,20 @@
 @import "utils/extends";
 @import "utils/mixins";
 
+@import "components/buttons";
+@import "components/accordions";
+
 @import "layout/header";
 @import "layout/navbar";
 @import "layout/footer";
+
+@import "pages/home/hero";
+@import "pages/home/partners";
+@import "pages/home/why_us";
+@import "pages/home/courses";
+@import "pages/home/benefits";
+@import "pages/home/featured";
+@import "pages/home/learn-anywhere";
+@import "pages/home/join-now";
+
+@import "pages/admin/adminpanel";

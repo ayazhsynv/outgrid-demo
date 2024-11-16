@@ -1,0 +1,26 @@
+.learn-anywhere {
+  padding: 120px 0;
+  background-color: $color-light;
+  img {
+    max-width: 640px;
+  }
+  p {
+    font-size: 18px;
+    color: $color-dark;
+    margin: 18px 12px 32px 0px;
+  }
+  &__bulletlist {
+    span {
+      margin-bottom: 32px;
+      font-size: 18px;
+      font-weight: 500;
+      i {
+        background-color: $color-primary;
+        border-radius: 20px;
+        margin: 12px;
+        padding: 10px;
+        font-weight: 900;
+      }
+    }
+  }
+}
